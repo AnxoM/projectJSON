@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming things",
+    "home_page_url": "https://anxom.github.io/projectJSON/",
+    "feed_url": "https://anxom.github.io/projectJSON/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is snek.",
+    "url": "https://anxom.github.io/projectJSON/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, Java!</p>",
+    "url": "https://anxom.github.io/projectJSON/java.html"
+    }
+    ]
+   }
+   
